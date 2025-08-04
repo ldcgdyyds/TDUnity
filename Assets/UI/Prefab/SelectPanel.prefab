@@ -965,7 +965,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7360554032533583824, guid: 270fc1d4a05da934a812d714f1668dfa, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7360554032533583824, guid: 270fc1d4a05da934a812d714f1668dfa, type: 3}
       propertyPath: m_AnchorMin.x
@@ -973,7 +973,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7360554032533583824, guid: 270fc1d4a05da934a812d714f1668dfa, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7360554032533583824, guid: 270fc1d4a05da934a812d714f1668dfa, type: 3}
       propertyPath: m_SizeDelta.x
@@ -1013,11 +1013,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7360554032533583824, guid: 270fc1d4a05da934a812d714f1668dfa, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 160
       objectReference: {fileID: 0}
     - target: {fileID: 7360554032533583824, guid: 270fc1d4a05da934a812d714f1668dfa, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -240
       objectReference: {fileID: 0}
     - target: {fileID: 7360554032533583824, guid: 270fc1d4a05da934a812d714f1668dfa, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1034,6 +1034,10 @@ PrefabInstance:
     - target: {fileID: 8557357107449099184, guid: 270fc1d4a05da934a812d714f1668dfa, type: 3}
       propertyPath: m_Name
       value: HeroCardItem
+      objectReference: {fileID: 0}
+    - target: {fileID: 8557357107449099184, guid: 270fc1d4a05da934a812d714f1668dfa, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
