@@ -258,6 +258,13 @@ MonoBehaviour:
   selectPanel: {fileID: 8012250320811718937}
   combatPanel: {fileID: 5457654311402448622}
   shopPanel: {fileID: 145343309928470505}
+  heros:
+  - {fileID: 11400000, guid: 97f87f2880ca5fc4db221c25fa7ee0c3, type: 2}
+  - {fileID: 11400000, guid: b2bc31bb739d8fc40b153461928f8a4c, type: 2}
+  - {fileID: 11400000, guid: 13d4c47b82490d04693210aaf3f986f2, type: 2}
+  - {fileID: 11400000, guid: c18037f5750d27e4ab4852a442683d9b, type: 2}
+  - {fileID: 11400000, guid: c181a797bea8dc24b8ae3175e2619ef0, type: 2}
+  - {fileID: 11400000, guid: 6584f708bd2fd6c49b5b5fdd68a32e39, type: 2}
 --- !u!4 &469422193
 Transform:
   m_ObjectHideFlags: 0

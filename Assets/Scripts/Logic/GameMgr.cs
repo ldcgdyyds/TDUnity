@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 public class GameMgr : MonoBehaviour
@@ -6,6 +7,7 @@ public class GameMgr : MonoBehaviour
     public SelectPanel selectPanel;
     public CombatPanel combatPanel;
     public ShopPanel shopPanel;
+    public List<HeroObject> heros;
     private void Start()
     {
         mainPanel.btnStart.onClick.AddListener(StartGame);

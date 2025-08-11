@@ -53,6 +53,7 @@
     <Compile Include="Assets\Scripts\Logic\EventCenter.cs" />
     <Compile Include="Assets\Scripts\UI\CombatPanel.cs" />
     <Compile Include="Assets\Scripts\Logic\GameMgr.cs" />
+    <Compile Include="Assets\Scripts\Data\HeroObject.cs" />
     <Compile Include="Assets\Scripts\UI\SelectItem.cs" />
     <Compile Include="Assets\Scripts\UI\Component\ButtonTransition.cs" />
     <Compile Include="Assets\Scripts\Logic\SingletonBase.cs" />
